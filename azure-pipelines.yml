@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  testagentpool01
+  name: 'testagentpool01'
 
 strategy:
   matrix:
